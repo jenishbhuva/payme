@@ -39,7 +39,10 @@ body{
         
         font-size:25px!important;
     }
-    
+    .header .btns button{
+          height: 40px!important;
+          width: 120px!important;
+    }
 
     .menu{
         display: none;
